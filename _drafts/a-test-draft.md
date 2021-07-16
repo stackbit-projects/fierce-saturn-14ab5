@@ -1,4 +1,4 @@
 ---
-title: "A test draft"
+title: A test draft בעברית?
 layout: post
 ---
